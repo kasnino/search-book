@@ -45,4 +45,10 @@ export default {
 input{ 
 margin-left: 10px !important;
 }
+
+@font-face {
+  font-family: muli;
+  src: url("./assets/Muli.ttf");
+}
+
 </style>
